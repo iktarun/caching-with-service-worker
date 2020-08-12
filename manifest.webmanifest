@@ -1,0 +1,13 @@
+{
+    "name": "Tarun PWA",
+    "short_name": "TarunWeb",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A PWA for better user experience",
+    "icons": [{
+      "src": "/images/image256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }]
+  }
