@@ -9,5 +9,21 @@
       "src": "/images/image256.png",
       "sizes": "256x256",
       "type": "image/png"
-    }]
+    }],
+    "shortcuts": [
+      {
+        "name": "Shortcut 1",
+        "short_name": "Shortcut1",
+        "description": "View the list of podcasts you saved for later",
+        "url": "/index.html?utm_source=Shortcut1",
+        "icons": [{ "src": "/images/shortcut_1_256x256.png", "sizes": "256x256" }]
+      },
+      {
+        "name": "Shortcut 2",
+        "short_name": "Shortcut2",
+        "description": "View the list of podcasts you listen to",
+        "url": "/index.html?utm_source=Shortcut2",
+        "icons": [{ "src": "/images/shortcut_1_256x256.png", "sizes": "256x256" }]
+      }
+    ]
   }
